@@ -1,0 +1,28 @@
+.SkillListLevelBtn {
+    border-radius: 20px;
+    border: none;
+    background-color: rgba(22, 110, 93, 0.748);
+    color: white;
+    padding: 3px;
+    width: 80px;
+    font-weight: bolder;
+}
+
+.SkillListLi {
+    border: 2px solid orange;
+    list-style-type: none;
+    margin: 5px;
+    width: 320px;
+    padding: 5px;
+    border-radius: 3px;
+    font-weight: bolder;
+    display: flex;
+    justify-content: space-between;
+}
+
+.SkillListUl {
+    margin: 0 auto;
+    width: 380px;
+}
+
+

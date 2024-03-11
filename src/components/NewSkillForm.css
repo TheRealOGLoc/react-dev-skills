@@ -1,0 +1,31 @@
+.NewSkillForm {
+    margin: 30px auto;
+    width: 360px;
+    border: 2px solid orange;
+}
+
+.NewSkillForm div {
+    width: 330px;
+    display: flex;
+    margin: 10px;
+    justify-content: space-between;
+    font-weight: bolder;
+}
+
+.NewSkillFormInput {
+    width: 200px;
+    border: 2px solid orange;
+    color: rgba(22, 110, 93, 0.748);
+    font-weight: bolder;
+}
+
+.NewSkillFormBtn {
+    width: 280px;
+    margin: 15px;
+    font-weight: bolder;
+    color: white;
+    border: none;
+    height: 25px;
+    border-radius: 5px;
+    background-color: rgba(22, 110, 93, 0.748);
+}
